@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: Recommendation Service
+    
+server:
+  port: 8085
+  servlet:
+    context-path: /recommend-service
+    
+napster:
+  api:
+    key: Yzc1ODU2ZTAtN2JhZC00NWE0LWJjYmUtMzFjNDlhOGZjYzc5
